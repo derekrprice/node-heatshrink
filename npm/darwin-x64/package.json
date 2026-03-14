@@ -1,18 +1,14 @@
 {
-  "name": "node-heatshrink-darwin-x64",
-  "version": "0.1.6",
+  "name": "@partechgss/partechgss-heatshrink-darwin-x64",
+  "version": "1.2.0",
   "repository": {
-    "url": "https://github.com/huming2207/node-heatshrink"
+    "url": "https://github.com/derekrprice/node-heatshrink"
   },
-  "os": [
-    "darwin"
-  ],
-  "cpu": [
-    "x64"
-  ],
-  "main": "node-heatshrink.darwin-x64.node",
+  "os": [],
+  "cpu": [],
+  "main": "partechgss-heatshrink.darwin-x64.node",
   "files": [
-    "node-heatshrink.darwin-x64.node"
+    "partechgss-heatshrink.darwin-x64.node"
   ],
   "license": "MIT",
   "engines": {

@@ -1,13 +1,13 @@
 {
-  "name": "node-heatshrink",
-  "version": "1.1.0",
+  "name": "@partechgss/node-heatshrink",
+  "version": "1.2.0",
   "main": "index.js",
   "types": "index.d.ts",
   "repository": {
-    "url": "https://github.com/huming2207/node-heatshrink"
+    "url": "https://github.com/derekrprice/node-heatshrink"
   },
   "napi": {
-    "name": "node-heatshrink",
+    "name": "partechgss-heatshrink",
     "triples": {
       "additional": [
         "aarch64-apple-darwin",

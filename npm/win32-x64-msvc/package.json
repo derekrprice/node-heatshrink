@@ -1,18 +1,14 @@
 {
-  "name": "node-heatshrink-win32-x64-msvc",
-  "version": "0.1.6",
+  "name": "@partechgss/partechgss-heatshrink-win32-x64-msvc",
+  "version": "1.2.0",
   "repository": {
-    "url": "https://github.com/huming2207/node-heatshrink"
+    "url": "https://github.com/derekrprice/node-heatshrink"
   },
-  "os": [
-    "win32"
-  ],
-  "cpu": [
-    "x64"
-  ],
-  "main": "node-heatshrink.win32-x64-msvc.node",
+  "os": [],
+  "cpu": [],
+  "main": "partechgss-heatshrink.win32-x64-msvc.node",
   "files": [
-    "node-heatshrink.win32-x64-msvc.node"
+    "partechgss-heatshrink.win32-x64-msvc.node"
   ],
   "license": "MIT",
   "engines": {

@@ -1,24 +1,17 @@
 {
-  "name": "node-heatshrink-linux-x64-gnu",
-  "version": "0.1.6",
+  "name": "@partechgss/partechgss-heatshrink-linux-x64-gnu",
+  "version": "1.2.0",
   "repository": {
-    "url": "https://github.com/huming2207/node-heatshrink"
+    "url": "https://github.com/derekrprice/node-heatshrink"
   },
-  "os": [
-    "linux"
-  ],
-  "cpu": [
-    "x64"
-  ],
-  "main": "node-heatshrink.linux-x64-gnu.node",
+  "os": [],
+  "cpu": [],
+  "main": "partechgss-heatshrink.linux-x64-gnu.node",
   "files": [
-    "node-heatshrink.linux-x64-gnu.node"
+    "partechgss-heatshrink.linux-x64-gnu.node"
   ],
   "license": "MIT",
   "engines": {
     "node": ">= 10"
-  },
-  "libc": [
-    "glibc"
-  ]
+  }
 }
