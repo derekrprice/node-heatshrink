@@ -1,14 +1,14 @@
 {
-  "name": "@partechgss/partechgss-heatshrink-darwin-arm64",
+  "name": "@partechgss/node-heatshrink-darwin-arm64",
   "version": "1.2.0",
   "repository": {
     "url": "https://github.com/derekrprice/node-heatshrink"
   },
   "os": [],
   "cpu": [],
-  "main": "partechgss-heatshrink.darwin-arm64.node",
+  "main": "node-heatshrink.darwin-arm64.node",
   "files": [
-    "partechgss-heatshrink.darwin-arm64.node"
+    "node-heatshrink.darwin-arm64.node"
   ],
   "license": "MIT",
   "engines": {
